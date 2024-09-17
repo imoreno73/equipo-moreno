@@ -1,0 +1,17 @@
+{
+  "name": "photogolf",
+  "version": "1.0.0",
+  "description": "Web de información de campos de golf P&P en España",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Moreno Frisón",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "dependencies": {
+    "imagemin": "^8.0.1"
+  }
+}
